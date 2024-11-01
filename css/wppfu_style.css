@@ -1,0 +1,4 @@
+@charset "UTF-8";
+/* CSS Document */
+.card{margin-bottom:30px}img.card-img-top{max-height:180px;object-fit:cover;}
+.woocommerce .col-1, .woocommerce .col-2{ max-width:none;} /* bootstrap columns error */
